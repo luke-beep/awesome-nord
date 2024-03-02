@@ -1,5 +1,7 @@
 # Nord
 
+![Nord](assets/Nord.png)
+
 **An arctic, north-bluish color palette.**
 Created for the clean and uncluttered design pattern to achieve a optimal focus and readability for code syntax highlighting and UI components.
 
@@ -39,7 +41,7 @@ The Frost category contains colors that are used for UI elements and syntax high
 
 ![Frost](https://via.placeholder.com/15/8FBCBB/000000?text=+) `#8FBCBB` ![Frost](https://via.placeholder.com/15/88C0D0/000000?text=+) `#88C0D0` ![Frost](https://via.placeholder.com/15/81A1C1/000000?text=+) `#81A1C1` ![Frost](https://via.placeholder.com/15/5E81AC/000000?text=+) `#5E81AC`
 
-### Auror
+### Aurora
 
 The Aurora category features warmer hues such as orange and red.
 
@@ -119,3 +121,5 @@ The Aurora category features warmer hues such as orange and red.
 - [Nord X](https://twitter.com/nordtheme)
 - [support@nordtheme.com](https://gmail.com)
 - [Sven Greb](https://github.com/svengreb)
+
+![Footer](https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/separators/iceberg/footer/light/spaced.svg?sanitize=true)
